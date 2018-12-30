@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="308f2352-1c74-49b3-9ffa-b86a0d018f29" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SessionsController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="30" column="56" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
               <folding>
                 <element signature="e#40#68#0#PHP" expanded="true" />
               </folding>
@@ -418,7 +412,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9841000" />
+    <option name="totallyTimeSpent" value="9906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="567" y="42" width="1261" height="953" extended-state="0" />
@@ -429,8 +423,8 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32261905" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22313371" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32261905" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22313371" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -826,7 +820,7 @@
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SessionsController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="30" column="56" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
           <folding>
             <element signature="e#40#68#0#PHP" expanded="true" />
           </folding>
